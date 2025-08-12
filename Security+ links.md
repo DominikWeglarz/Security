@@ -33,6 +33,11 @@
 *	https://us-cert.cisa.gov/ncas/tips – CISA Tips – wskazówki bezpieczeństwa dla użytkowników i firm.
 *	https://us-cert.cisa.gov/ncas/alerts – CISA Alerts – oficjalne alerty o zagrożeniach cyber.
 *	https://us-cert.cisa.gov/ncas/bulletins – CISA Bulletins – zestawienia aktualnych zagrożeń i podatności.
+*	https://www.first.org/ – FIRST (Forum of Incident Response and Security Teams) – międzynarodowe stowarzyszenie zespołów reagowania na incydenty.
+*	https://www.first.org/cvss/calculator/3.1 – Kalkulator CVSS v3.1 od FIRST – narzędzie do obliczania ocen podatności.
+*	https://cert.pl/ – CERT Polska – krajowy zespół reagowania na incydenty, raporty o stanie bezpieczeństwa w Polsce, analizy malware.
+*	https://cert.pl/publikacje/ – Publikacje CERT Polska – raporty, analizy, poradniki.
+*	
 
 **Praktyczne platformy i laby :**
 
@@ -58,4 +63,9 @@
 *	https://misp-project.org/ – MISP – Open Source Threat Intelligence Platform.
 *	https://thehackernews.com/ – Aktualności o bezpieczeństwie IT.
 *	https://unit42.paloaltonetworks.com/ – Unit 42 – raporty z analiz incydentów i malware.
-
+*	https://www.bleepingcomputer.com/ – Bleeping Computer – serwis z aktualnościami i poradnikami o zagrożeniach cyber.
+*	https://www.understandingcvss.org/ – Przewodnik po CVSS – zasady oceniania podatności.
+*	https://www.kb.cert.org/vuls/ – CERT/CC Vulnerability Notes Database – baza podatności z analizami.
+*	https://www.schneier.com/ – Bruce Schneier on Security – komentarze eksperta ds. bezpieczeństwa.
+*	https://www.darkreading.com/ – Dark Reading – serwis informacyjny o zagrożeniach cyber i trendach w branży security.
+*	https://cybersecurityventures.com/ – Raporty i statystyki globalne o cyberprzestępczości.
