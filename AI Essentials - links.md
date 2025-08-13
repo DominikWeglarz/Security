@@ -1,6 +1,6 @@
 # Lista zasobów AI
 
-## Najbardziej wartościowe (praktyczne narzędzia i kursy – fundament pracy z AI)
+## Praktyczne narzędzia i fundamenty AI
 * https://openai.com/chatgpt - ChatGPT – popularny chatbot AI od OpenAI
 * https://claude.ai - Claude – model językowy od Anthropic
 * https://gemini.google.com - Gemini – generatywny asystent AI od Google
