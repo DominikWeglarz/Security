@@ -45,7 +45,6 @@
 * https://futureoflife.org/ - Future of Life Institute – etyka i bezpieczeństwo AI
 * https://oecd.ai/en/ - OECD AI Policy Observatory – polityka i regulacje AI
 * https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf - NIST AI Risk Management Framework
-* https://privacyinternational.org/ - Privacy International – ochrona prywatności
 
 
 ## Inne narzędzia, edukacja i społeczności
